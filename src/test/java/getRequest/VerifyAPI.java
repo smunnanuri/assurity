@@ -15,7 +15,7 @@ public class VerifyAPI {
 
         // Call the API and store the response in a rest-assured response object
     	Response apiResponse = RestAssured.get("https://api.tmsandbox.co.nz/v1/Categories/6327/Details.json?catalogue=false");
-        // Evaluate Json path from the response object
+        // Evaluate JSON path from the response object
         JsonPath apiJson = apiResponse.jsonPath();
 
         //Extract and validate the name Node	
