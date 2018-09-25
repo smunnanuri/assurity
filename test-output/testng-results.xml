@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2467" started-at="2018-09-25T10:57:44Z" finished-at="2018-09-25T10:57:46Z">
+  <suite name="Default suite" duration-ms="2408" started-at="2018-09-25T11:24:36Z" finished-at="2018-09-25T11:24:39Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2467" started-at="2018-09-25T10:57:44Z" finished-at="2018-09-25T10:57:46Z">
+    <test name="Default test" duration-ms="2408" started-at="2018-09-25T11:24:36Z" finished-at="2018-09-25T11:24:39Z">
       <class name="getRequest.VerifyAPI">
-        <test-method status="PASS" signature="testResponsecode()[pri:0, instance:getRequest.VerifyAPI@4b9e13df]" name="testResponsecode" duration-ms="2438" started-at="2018-09-25T10:57:44Z" finished-at="2018-09-25T10:57:46Z">
+        <test-method status="PASS" signature="testResponsecode()[pri:0, instance:getRequest.VerifyAPI@4b9e13df]" name="testResponsecode" duration-ms="2378" started-at="2018-09-25T11:24:36Z" finished-at="2018-09-25T11:24:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testResponsecode -->

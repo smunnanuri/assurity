@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="getRequest.GetData">
+      <class name="getRequest.VerifyAPI">
         <methods>
           <include name="testResponsecode"/>
         </methods>
-      </class> <!-- getRequest.GetData -->
+      </class> <!-- getRequest.VerifyAPI -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
